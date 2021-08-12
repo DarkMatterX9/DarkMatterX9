@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DarkMatterX9
+- 👀 I’m interested in furthing my knowledge in all aspect of Software Development, Scripting, and overall Information Technology.
+- 🌱 I’m currently working on building a coding porfolio that can showcase my ability to use programming to solve problems!
+- 💞️ I’m looking to collaborate on anything! The nasty complext code, the rought just starting out, and even the debugging the nasty bugs.
+- 📫 You can easly reach me via email: jajohn7m@gmail.com
